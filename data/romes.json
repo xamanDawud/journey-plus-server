@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "THE BVLGARI VILLA",
+    "guests": "4",
+    "beds": "2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "star": "4.5",
+    "price": "$54",
+    "total": "$112",
+    "url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2020/08/THE-BVLGARI-VILLA-THE-BVLGARI-RESORT-DUBAI-USA.jpg?resize=678%2C381&ssl=1"
+  },
+  {
+    "id": "2",
+    "name": "TY WARNER PENTHOUSE",
+    "guests": "4",
+    "beds": "2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "star": "4.5",
+    "price": "$276",
+    "total": "$467",
+    "url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2020/08/TY-WARNER-PENTHOUSE-FOUR-SEASONS-HOTEL-NEW-YORK-USA.jpg?resize=678%2C381&ssl=1"
+  },
+  {
+    "id": "3",
+    "name": "THE ROYAL VILLA",
+    "guests": "4",
+    "beds": "2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "star": "4.5",
+    "price": "$354",
+    "total": "$567",
+    "url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2020/08/THE-ROYAL-VILLA-GRAND-RESORT-LAGONISSI-ATHENS-GREECE.jpg?resize=678%2C381&ssl=1"
+  },
+  {
+    "id": "4",
+    "name": "PRIVATE ISLAND",
+    "guests": "4",
+    "beds": "2",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "star": "4.5",
+    "price": "$54",
+    "total": "$157",
+    "url": "https://st.depositphotos.com/1164721/2078/i/450/depositphotos_20784379-stock-photo-interior-of-modern-comfortable-hotel.jpg"
+  }
+]
